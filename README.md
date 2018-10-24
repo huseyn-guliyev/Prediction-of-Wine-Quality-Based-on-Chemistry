@@ -1,0 +1,2 @@
+# Prediction-of-Wine-Quality-Based-on-Chemistry
+This project was my capstone for my Udacity ML Nanodegree in which I build a machine learning pipeline that figures out what the qualitative score of a wine will be based on its physiochemical properties. I emply data exploration, feature engineering, feature extraction, and an ML pipeline with cross validation to test different models. Data visualization is provided throughout. 
